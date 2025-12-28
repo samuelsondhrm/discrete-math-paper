@@ -1,4 +1,5 @@
-# MakalahMatdis
+# Discrete Mathematics Paper
+Can be accessed publicly [HERE]([URL](https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Makalah2025/Makalah-Matdis-2025-IF-ITB%20(8).pdf))
 
 This Python program simulates a basic production scheduling algorithm for a manufacturing company, PT Yane Manufaktur Indonesia. It efficiently manages various types of production orders, assigns them to available machinery, and allocates necessary human resources (operators) while calculating estimated completion times and power consumption.
 
